@@ -10,7 +10,6 @@ Unlike array implementation, a linked list stack:
 - Handles overflow only when memory is unavailable.
 
 ---
-
  Source Code
 
 ```c
